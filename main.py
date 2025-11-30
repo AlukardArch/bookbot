@@ -17,7 +17,7 @@ def main():
         print(f"Found {num_words} total words")
         print("--------- Character Count -------")
         for char in sorted:
-            print(f"{char} : {sorted[char]}")
+            print(f"{char}: {sorted[char]}")
         print("============= END ===============")
 
 
